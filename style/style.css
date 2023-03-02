@@ -84,8 +84,9 @@ header {
 
 .descripcion {
     display: flex;
-    justify-content: center;
-    gap: 200px;
+    gap: 128px;
+    margin-left: 105px;
+    
 }
 
 .inf {
